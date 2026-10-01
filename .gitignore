@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local Database & Test Database
+contacts.db
+test_contacts.db
+
+# Virtual Environments
+venv/
+env/
+ENV/
+
+# IDE / OS settings
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

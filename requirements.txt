@@ -1,0 +1,6 @@
+# Contact Book Application Dependencies
+# No external 3rd-party packages required!
+# Uses standard Python 3 libraries:
+# - tkinter (GUI)
+# - sqlite3 (Database persistence)
+# - unittest (Testing)
