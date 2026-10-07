@@ -17,6 +17,9 @@ HTML_TEMPLATE = """
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contact Book Web</title>
+    <!-- Favicon Logos -->
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='25' fill='%236366F1'/><text x='50' y='68' font-size='55' text-anchor='middle'>👥</text></svg>">
+    <link rel="alternate icon" type="image/png" href="logo.png">
     <style>
         :root {
             --bg-main: #0B0F19;
